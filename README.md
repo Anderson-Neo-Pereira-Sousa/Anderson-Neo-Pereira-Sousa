@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Olá, eu sou Anderson Neo!  
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+- 🚀 Atualmente, sou aluno da **ONE (Oracle Next Education)**  
+- 💻 Apaixonado por **tecnologia, desenvolvimento web e backend**   
+- 🎯 Buscando oportunidades para **desenvolver projetos e crescer profissionalmente**  
 
-<!--
-**Anderson-Neo-Pereira-Sousa/Anderson-Neo-Pereira-Sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img height="200px" width="auto" src="https://github-readme-stats.vercel.app/api?username=Anderson-Neo-Pereira-Sousa&show_icons=true&theme=onedark&rank_icon=github&hide=issues,contribs&card_width=250&count_private=true&hide_border=true" alt="GitHub Stats Card"/>
+  <img height="200px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Neo-Pereira-Sousa&layout=compact&theme=onedark&langs_count=8&card_width=250&count_private=true&hide_border=true" alt="Top Languages Card"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologias & Ferramentas  
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50" height="50" hspace="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" hspace="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" hspace="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" hspace="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" hspace="12"/>
+</div>
+
+---
+<a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" hspace="12"/></a>
+<a href="https://www.linkedin.com/in/anderson-neo-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
