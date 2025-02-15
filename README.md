@@ -7,7 +7,6 @@
 ---
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img height="200px" width="auto" src="https://github-readme-stats.vercel.app/api?username=Anderson-Neo-Pereira-Sousa&show_icons=true&theme=onedark&rank_icon=github&hide=issues,contribs&card_width=250&count_private=true&hide_border=true" alt="GitHub Stats Card"/>
   <img height="200px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Neo-Pereira-Sousa&layout=compact&theme=onedark&langs_count=8&card_width=250&count_private=true&hide_border=true" alt="Top Languages Card"/>
 </p>
 
